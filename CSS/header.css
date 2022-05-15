@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+.epeTitle{
+    padding: 5vh;
+    border-bottom: 1px solid gray;
+    box-shadow: 1px 1px 10px black;
+    margin-bottom: 3vh;
+}
+.epeTitle h2{
+    font-size: 3vw;
+    font-weight: bold;
+}
+.epeTitle h2:hover{
+    transform:  scale(1.1,1.1);
+}
+.col-6{
+    cursor: pointer;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+

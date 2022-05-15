@@ -1,0 +1,7 @@
+.tags{
+    background-color: lightgray;
+}
+
+.active{
+    border-bottom: 5px solid green;
+}
